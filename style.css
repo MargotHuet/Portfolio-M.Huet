@@ -1,8 +1,9 @@
 
 .banniere{
     padding: 300px; 
-    margin: 100px;
-    background-image: url(portfolio\ background.jpg);
+    margin: 60px;
+    padding-top: 400px;
+    background-image: url(background\ portfoliojpg.jpg);
     background-size: cover;
     background-position: center;
 }

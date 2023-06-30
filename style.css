@@ -7,3 +7,17 @@
     background-size: cover;
     background-position: center;
 }
+
+.bloc-presentation {
+    
+    background: rgb(239,246,246);
+background: linear-gradient(90deg, rgba(239,246,246,1) 0%, rgba(228,228,236,1) 18%, rgba(109,176,190,0.4318102240896359) 76%);
+    padding: 10px;
+    margin: 6px;
+}
+
+.bloc-presentation-titre{
+    background-color: red;
+    height: 100px;
+    
+}
